@@ -9,16 +9,11 @@ Standardized protocols for collagen gel casting and two-photon laser ablation wo
 
 ## Overview
 
-This documentation provides structured, reproducible protocols for:
+This documentation provides protocols for:  
 
-* Preparation and casting of collagen gels
-* Two-photon laser ablation and patterning workflows
-
-All protocols are written to prioritize:
-
-* Reproducibility
-* Clear parameter tracking
-* Compatibility with existing ScanImage + WayPoint workflows
+* Preparing & casting collagen gels
+* Two-photon laser ablation & micromachining (EMPTY)
+* Two-photon laser printing (EMPTY)
 
 ---
 
@@ -26,11 +21,16 @@ All protocols are written to prioritize:
 
 ### Casting Gels
 
-* [Center Well Dish Protocol](casting_gels/cast_gel_center_well_dish.md)
+* [Center Well Dish Protocol](casting_gels/cast_gel_center_well_dish.md)  
 
-### Laser Ablation
+### Laser Ablation  
 
-* [Ablation Template Protocol](laser_ablation/template.md)
+* [Ablation Empty Protocol](laser_ablation/protocol_template.md)  
+
+### Laser Printing  
+
+* [Printing Empty Protocol](laser_printing/protocol_template.md)  
+
 
 ---
 
@@ -38,4 +38,4 @@ All protocols are written to prioritize:
 
 * Each protocol contains a **logging section** — complete this for every trial
 * Follow specified concentrations and volumes exactly unless otherwise noted
-* Deviations from protocol should be recorded explicitly
+* Please explicitly record deviations from protocol
