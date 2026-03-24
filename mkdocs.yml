@@ -8,6 +8,8 @@ theme:
 nav:
   - Home: index.md
   - Casting Gels:
-      - Center Well Dish: casting_gels/cast_gel_center_well_dish.md
+      - Center Well Dish: casting_gels/center_well_dish.md
   - Laser Ablation:
-      - Template: laser_ablation/template.md
+      - Template: laser_ablation/protocol_template.md
+  - Laser Printing:
+      - Template: laser_printing/protocol_template.md
