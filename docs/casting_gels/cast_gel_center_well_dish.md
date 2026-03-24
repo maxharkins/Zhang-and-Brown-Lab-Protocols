@@ -58,6 +58,8 @@ Please include a semi-detailed log of the trial.
 
 ---
 
+## II.  Making `Neutralized Collagen Solution`:
+
 ### Planning & Measuring Collagen Solution:
 
 **IMPORTANT:** If you are making anything other than 0.5 mL, 6% `gel`, follow official Corning® protocol.
@@ -67,10 +69,10 @@ Please include a semi-detailed log of the trial.
 > - 5 µL `1X NaOH`
 > - 151 µL `DI Water`
 > - 292 µL `Stock Collagen Solution`
+
 ---
 
-## II.  Making `Neutralized Collagen Solution`:
-
+### Prepping & Casting `gels`
 1. Fill `Styrofoam bucket` with ice
 
 1. Place all collagen reagents on ice for 20 minutes
@@ -120,13 +122,13 @@ Please include a semi-detailed log of the trial.
 1. Store wrapped `dish set` in the refrigerator, noting any bubbles if present. 
 
 ---
-## Supplemental Protocols:
+## IV.  Supplemental Protocols:
 
 
-## Treating `Center Well`:
+### Treating `Center Well`:
 Treating the `center well` with `PEI`/`GA` may be helpful for improving gel adhesion to the edges of the `center well`.
 > _NOTE: `PEI` and `GA` evaporate rather quickly; replace green cap of conical tube promptly._
-### Treatment:
+**Treatment**:
 1. Pipette ~15 µL of `PEI` into the `center well`, making sure to spread the liquid so that it makes contact with the base and walls of the `center well`. 
 1. Wait ~10 minutes to dry (you may use `compressed air canister` if impatient)
 1. Pipette ~15 µL of `GA` into the `center well` in the same manner. 
@@ -134,19 +136,19 @@ Treating the `center well` with `PEI`/`GA` may be helpful for improving gel adhe
 
 ---
 
-## Applying `Coverslips`:
+### Applying `Coverslips`:
 _Adapted from Tresa Elias's Protocol_
 
 If the coverslip is required (varies between experiments), you must place prepare it before placing it. It is important to coat `coverslip` with RainX to prevent unwanted adhesion of `coverslip` to `gel`.
 
-### `Coverslip` Preparation
+**`Coverslip` Preparation**
 1. Clean `coverslips` with `EtOH` and dry
 1. Place desired number of `coverslips` on a `Kim Wipe`
 1. Gently spray coverslips with `RainX`, then dab the surface with a `Kim Wipe`
 1. Repeat once more and let `coverslips` completely air dry
 
 
-### `Coverslip` Placement
+**`Coverslip` Placement**
 1. Gently place coverslip on top of `gel`
 1. Replace `dish cover` and re-wrap `dish set` with `lab film`
 
