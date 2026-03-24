@@ -1,7 +1,13 @@
-site_name: Zhang & Brown Laboratory Protocols
+site_name: Zhang & Brown Lab Protocols
+site_description: Standardized protocols for collagen gel casting and two-photon laser ablation workflows
+site_author: Max Harkins
 
 theme:
   name: material
 
 nav:
   - Home: index.md
+  - Casting Gels:
+      - Center Well Dish: casting_gels/cast_gel_center_well_dish.md
+  - Laser Ablation:
+      - Template: laser_ablation/template.md
