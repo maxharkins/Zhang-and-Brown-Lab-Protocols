@@ -1,4 +1,6 @@
 # Zhang & Brown Lab Protocols
+**Author:** Max Harkins - mharkin4@u.rochester.edu
+**Updated:** March 23, 2026
 
 Standardized protocols for collagen gel casting and two-photon laser ablation workflows.
 

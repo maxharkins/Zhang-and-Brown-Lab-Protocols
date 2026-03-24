@@ -1,6 +1,6 @@
 # Zhang & Brown Lab Protocols
 
-**Max Harkins**
+**Max Harkins** -
 [mharkin4@u.rochester.edu](mailto:mharkin4@u.rochester.edu)
 
 ---
