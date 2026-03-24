@@ -72,7 +72,7 @@ Please include a semi-detailed log of the trial.
 
 ---
 
-### Prepping & Casting `gels`
+### Synthesizing Collagen Solution:
 1. Fill `Styrofoam bucket` with ice
 
 1. Place all collagen reagents on ice for 20 minutes
