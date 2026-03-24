@@ -1,0 +1,7 @@
+site_name: Zhang & Brown Laboratory Protocols
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
