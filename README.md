@@ -13,34 +13,21 @@ Standardized protocols for:
 ---
 
 ## Viewing Documentation
-
-### Option 1 — Directly on GitHub (RECOMMENDED)
-
-1. Open the `docs/` folder
-2. Navigate to the relevant protocol category
-3. Open the desired `.md` file
-
-### Option 2 — Local Documentation Site
-
-```bash
-pip install mkdocs
-mkdocs serve
-```
-
-Then open:
-
-```
-http://127.0.0.1:8000/
-```
-
----
+- Open in any web browse:  
+&emsp;&emsp;**https://maxharkins.github.io/Zhang-and-Brown-Lab-Protocols/**
+- Scroll down to `Protocols`
+- Click on the protocol you want to open up that `.md` file
 
 ## Repository Structure
 
 ```text
 docs/
     casting_gels/
+        /center_well_dish.md
     laser_ablation/
+        /protocol_template.md (EMPTY)
+    laser_printing/
+        /protocol_template.md (EMPTY)
 ```
 
 ---
