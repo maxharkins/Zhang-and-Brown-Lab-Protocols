@@ -26,9 +26,9 @@ Please include a semi-detailed log of the trial.
 ### Basic items:
 - Center well dish (`dish set`)
     - Components:
-      - `center well`: inner well of `dish set`; where the gel will be cast
-      - `dish bottom`: bottom piece of `dish set`
-      - `dish cover`: top piece of `dish set`
+        - `center well`: inner well of `dish set`; where the gel will be cast
+        - `dish bottom`: bottom piece of `dish set`
+        - `dish cover`: top piece of `dish set`
 
 - `Styrofoam bucket` for ice
 - `Lab film` (Parafilm M)
