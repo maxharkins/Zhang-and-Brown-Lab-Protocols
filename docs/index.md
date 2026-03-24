@@ -25,11 +25,11 @@ This documentation provides protocols for:
 
 ### Laser Ablation  
 
-* [Ablation Empty Protocol](laser_ablation/protocol_template.md)  
+* [Ablation Protocol (EMPTY)](laser_ablation/protocol_template.md)  
 
 ### Laser Printing  
 
-* [Printing Empty Protocol](laser_printing/protocol_template.md)  
+* [Printing Protocol (EMPTY)](laser_printing/protocol_template.md)  
 
 
 ---
