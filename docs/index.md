@@ -21,7 +21,7 @@ This documentation provides protocols for:
 
 ### Casting Gels
 
-* [Center Well Dish Protocol](casting_gels/cast_gel_center_well_dish.md)  
+* [Center Well Dish Protocol](casting_gels/center_well_dish.md)  
 
 ### Laser Ablation  
 
